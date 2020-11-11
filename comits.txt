@@ -1,0 +1,11 @@
+commit 06c328c42fc3700dabc428f1ff30b73e9d63b804
+Author: Sergio Burbano <sdburbano@uniboyaca.edu.co>
+Date:   Fri Nov 6 17:51:13 2020 -0500
+
+    Segundo guardado , Foto y Descripción
+
+commit 5ec0be2630a3b45dce1ba526194d42ecefab928d
+Author: Sergio Burbano <sdburbano@uniboyaca.edu.co>
+Date:   Fri Nov 6 17:43:10 2020 -0500
+
+    Primer guardado
